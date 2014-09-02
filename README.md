@@ -1,7 +1,7 @@
 MimicDB
 =======
 
-An Isomorphic Key-Value Store for S3 - [mimicdb.com](mimicdb.com)
+An Isomorphic Key-Value Store for S3 - [mimicdb.com](http://mimicdb.com)
 
 #### Implementations
 
